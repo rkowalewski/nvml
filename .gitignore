@@ -13,3 +13,5 @@ rpm/
 dpkg/
 .deps
 .vscode
+.syntastic_*
+tags
